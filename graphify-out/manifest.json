@@ -1,0 +1,352 @@
+{
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/.claude/settings.json": {
+    "mtime": 1783333625.8897645,
+    "ast_hash": "dc580fca35a0e98ed20777ede5e545a1",
+    "semantic_hash": "dc580fca35a0e98ed20777ede5e545a1"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/.vscode/extensions.json": {
+    "mtime": 1783333599.7918594,
+    "ast_hash": "b2354ba0225f5689d13651ec0fac0de0",
+    "semantic_hash": "b2354ba0225f5689d13651ec0fac0de0"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/.vscode/launch.json": {
+    "mtime": 1783333993.3585649,
+    "ast_hash": "25dfd810c78b7cdd95dd6c7989d347d8",
+    "semantic_hash": "25dfd810c78b7cdd95dd6c7989d347d8"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/.vscode/settings.json": {
+    "mtime": 1783333599.7928085,
+    "ast_hash": "6b9302c1f72c315e90233c7539c48c9f",
+    "semantic_hash": "6b9302c1f72c315e90233c7539c48c9f"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/app.json": {
+    "mtime": 1783519824.0942264,
+    "ast_hash": "fdfb12c3cefb3297b5cbfe5177d4c715",
+    "semantic_hash": "fdfb12c3cefb3297b5cbfe5177d4c715"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/babel.config.js": {
+    "mtime": 1783425726.2365572,
+    "ast_hash": "d55d9f8b252c8c5ae6fc1448a83e84b5",
+    "semantic_hash": "d55d9f8b252c8c5ae6fc1448a83e84b5"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/metro.config.js": {
+    "mtime": 1783425770.345536,
+    "ast_hash": "887df1d17a96b9d0aa6144879f079d33",
+    "semantic_hash": "887df1d17a96b9d0aa6144879f079d33"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/nativewind-env.d.ts": {
+    "mtime": 1783426377.9238162,
+    "ast_hash": "b02bcf4fde15f746f6e5248537d0b156",
+    "semantic_hash": "b02bcf4fde15f746f6e5248537d0b156"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/package.json": {
+    "mtime": 1783423996.432434,
+    "ast_hash": "b361aaee9d8acdd9991bca58951bdfbe",
+    "semantic_hash": "b361aaee9d8acdd9991bca58951bdfbe"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/src/app/(root)/(auth)/_layout.tsx": {
+    "mtime": 1783527639.4711843,
+    "ast_hash": "e6110229a5c6945f06db11ba3cd751f5",
+    "semantic_hash": "e6110229a5c6945f06db11ba3cd751f5"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/src/app/(root)/(auth)/signin.tsx": {
+    "mtime": 1783528692.389837,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/src/app/(root)/(auth)/signup.tsx": {
+    "mtime": 1783528703.802111,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/src/app/(root)/(auth)/welcome.tsx": {
+    "mtime": 1783528714.629803,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/src/app/(root)/(tabs)/chat.tsx": {
+    "mtime": 1783521955.479171,
+    "ast_hash": "53bd416a2ca010509113ab68b974281d",
+    "semantic_hash": "53bd416a2ca010509113ab68b974281d"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/src/app/(root)/(tabs)/home.tsx": {
+    "mtime": 1783527270.7153149,
+    "ast_hash": "b949fb865f3df85cfe0b555b0df9efe8",
+    "semantic_hash": "b949fb865f3df85cfe0b555b0df9efe8"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/src/app/(root)/(tabs)/profile.tsx": {
+    "mtime": 1783527273.8948033,
+    "ast_hash": "1201b1c331d120ce979f210bd85373b1",
+    "semantic_hash": "1201b1c331d120ce979f210bd85373b1"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/src/app/(root)/(tabs)/rides.tsx": {
+    "mtime": 1783527499.3125162,
+    "ast_hash": "42a1d6b1eb34b11db6f5c8d6e80dc841",
+    "semantic_hash": "42a1d6b1eb34b11db6f5c8d6e80dc841"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/src/app/(root)/_layout.tsx": {
+    "mtime": 1783520692.2569232,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/src/app/+not-found.tsx": {
+    "mtime": 1783518250.6600695,
+    "ast_hash": "d5d89427195932cb937e8ecb54ef9f6b",
+    "semantic_hash": "d5d89427195932cb937e8ecb54ef9f6b"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/src/app/_layout.tsx": {
+    "mtime": 1783520340.3355753,
+    "ast_hash": "88074f31d5c031933af6f6e352ae45f6",
+    "semantic_hash": "88074f31d5c031933af6f6e352ae45f6"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/src/app/index.tsx": {
+    "mtime": 1783864671.0582318,
+    "ast_hash": "76b529f30ba61fe09c6ba4b6ee8e0820",
+    "semantic_hash": "76b529f30ba61fe09c6ba4b6ee8e0820"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/src/components/layout/screenLayout.tsx": {
+    "mtime": 1783607413.5623336,
+    "ast_hash": "94f8b4ad234c0e905033a61fc182546a",
+    "semantic_hash": "94f8b4ad234c0e905033a61fc182546a"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/tailwind.config.js": {
+    "mtime": 1783520635.4927945,
+    "ast_hash": "a8f0ac6d62464a15593f8581c898c601",
+    "semantic_hash": "a8f0ac6d62464a15593f8581c898c601"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/tsconfig.json": {
+    "mtime": 1783432481.9913886,
+    "ast_hash": "fe70175f872f6a9ae0062919e2c07213",
+    "semantic_hash": "fe70175f872f6a9ae0062919e2c07213"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/.playwright-mcp/page-2026-07-12T14-00-14-949Z.yml": {
+    "mtime": 1783864814.9501495,
+    "ast_hash": "609282977c7c202c588dc9ee0bb3130d",
+    "semantic_hash": "609282977c7c202c588dc9ee0bb3130d"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/AGENTS.md": {
+    "mtime": 1783333625.8895147,
+    "ast_hash": "963888ec05f17b13375386f058dd621e",
+    "semantic_hash": "963888ec05f17b13375386f058dd621e"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/CLAUDE.md": {
+    "mtime": 1783333625.889626,
+    "ast_hash": "5c27369b226fcf2be8a6cfe52224e767",
+    "semantic_hash": "5c27369b226fcf2be8a6cfe52224e767"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/README.md": {
+    "mtime": 1783333599.7932332,
+    "ast_hash": "db37e01139db6cec80a338779325d5ae",
+    "semantic_hash": "db37e01139db6cec80a338779325d5ae"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/.playwright-mcp/page-2026-07-12T14-00-22-615Z.png": {
+    "mtime": 1783864822.6155725,
+    "ast_hash": "83e9bc517b63abbdc97f51e88cc23240",
+    "semantic_hash": "83e9bc517b63abbdc97f51e88cc23240"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/arrow-down.png": {
+    "mtime": 1722139920.0,
+    "ast_hash": "1dbca3d1a043858c19a7362db379c3eb",
+    "semantic_hash": "1dbca3d1a043858c19a7362db379c3eb"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/arrow-up.png": {
+    "mtime": 1722139920.0,
+    "ast_hash": "b8056643b1d5b2d1bd500da907331b5c",
+    "semantic_hash": "b8056643b1d5b2d1bd500da907331b5c"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/back-arrow.png": {
+    "mtime": 1722139920.0,
+    "ast_hash": "4d5fe581c9887c97ab25027a76beecca",
+    "semantic_hash": "4d5fe581c9887c97ab25027a76beecca"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/chat.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "0aa3234439c3bdf7aa444c5b230c88e0",
+    "semantic_hash": "0aa3234439c3bdf7aa444c5b230c88e0"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/check.png": {
+    "mtime": 1722139920.0,
+    "ast_hash": "e9bc1975cea1661ae9da5d1a34000e1d",
+    "semantic_hash": "e9bc1975cea1661ae9da5d1a34000e1d"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/close.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "fd74734c11a92ab81cf9b34f4d326a09",
+    "semantic_hash": "fd74734c11a92ab81cf9b34f4d326a09"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/dollar.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "4c5372b2d7bf88c31ee77aaa00f02d82",
+    "semantic_hash": "4c5372b2d7bf88c31ee77aaa00f02d82"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/email.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "9dd816b98d5d3e6071e44061274f1b6e",
+    "semantic_hash": "9dd816b98d5d3e6071e44061274f1b6e"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/eyecross.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "5babc8cc8d7021fc88ac023dbbabbb7c",
+    "semantic_hash": "5babc8cc8d7021fc88ac023dbbabbb7c"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/google.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "2600f18a77c0ad144fd2421d33f17126",
+    "semantic_hash": "2600f18a77c0ad144fd2421d33f17126"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/home.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "512a17cab265605282568422edba88ac",
+    "semantic_hash": "512a17cab265605282568422edba88ac"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/list.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "8f1d655930d2f305d545d07c74eeb69d",
+    "semantic_hash": "8f1d655930d2f305d545d07c74eeb69d"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/lock.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "b06940e0f9ff17d238a11caef2dee76f",
+    "semantic_hash": "b06940e0f9ff17d238a11caef2dee76f"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/map.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "a8a64a58cf6d26bd38a64ef93e965624",
+    "semantic_hash": "a8a64a58cf6d26bd38a64ef93e965624"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/marker.png": {
+    "mtime": 1722139920.0,
+    "ast_hash": "5d8894a774195ce5f05a307844e6140b",
+    "semantic_hash": "5d8894a774195ce5f05a307844e6140b"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/out.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "f2e7d81ada662f55c8c29790dba47d9b",
+    "semantic_hash": "f2e7d81ada662f55c8c29790dba47d9b"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/person.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "f8af89c5bed1c09ca49af67fe79fedf3",
+    "semantic_hash": "f8af89c5bed1c09ca49af67fe79fedf3"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/pin.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "6b446f78f1914a80f3be1fb4172c8ac2",
+    "semantic_hash": "6b446f78f1914a80f3be1fb4172c8ac2"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/point.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "1699c8e7f74cf7db24dd6ec3f5032e02",
+    "semantic_hash": "1699c8e7f74cf7db24dd6ec3f5032e02"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/profile.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "dbb48f0985cf0e12700821383bcd20a5",
+    "semantic_hash": "dbb48f0985cf0e12700821383bcd20a5"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/search.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "20156738bf5750e172e655494dd5848d",
+    "semantic_hash": "20156738bf5750e172e655494dd5848d"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/selected-marker.png": {
+    "mtime": 1722139920.0,
+    "ast_hash": "8975bf03ce547c414b2d877a5b1e05b4",
+    "semantic_hash": "8975bf03ce547c414b2d877a5b1e05b4"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/star.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "50d56c85278483ca8283f6d7a74c889b",
+    "semantic_hash": "50d56c85278483ca8283f6d7a74c889b"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/target.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "905e1bc57fdfa56cd7a7d74cd68eebf2",
+    "semantic_hash": "905e1bc57fdfa56cd7a7d74cd68eebf2"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/icons/to.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "08937f7332bc2bbd050a241b1582f8d4",
+    "semantic_hash": "08937f7332bc2bbd050a241b1582f8d4"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/adaptive-icon.png": {
+    "mtime": 1722264002.0,
+    "ast_hash": "6e3a5fdddfb4d249695386ec8598d147",
+    "semantic_hash": "6e3a5fdddfb4d249695386ec8598d147"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/check.png": {
+    "mtime": 1722422350.0,
+    "ast_hash": "e3de55b37ea734bcd503ac70ec4441f3",
+    "semantic_hash": "e3de55b37ea734bcd503ac70ec4441f3"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/favicon.png": {
+    "mtime": 1722249318.0,
+    "ast_hash": "afeb9184cba29db4821ec4768896f694",
+    "semantic_hash": "afeb9184cba29db4821ec4768896f694"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/get-started.png": {
+    "mtime": 1722277748.0,
+    "ast_hash": "836193f294a6c2684c777887f0141350",
+    "semantic_hash": "836193f294a6c2684c777887f0141350"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/icon.png": {
+    "mtime": 1722264002.0,
+    "ast_hash": "6e3a5fdddfb4d249695386ec8598d147",
+    "semantic_hash": "6e3a5fdddfb4d249695386ec8598d147"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/message.png": {
+    "mtime": 1723490640.0,
+    "ast_hash": "9d2206b7e60661ef50a6af05f979a16d",
+    "semantic_hash": "9d2206b7e60661ef50a6af05f979a16d"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/no-result.png": {
+    "mtime": 1723407358.0,
+    "ast_hash": "3f03c282bd24d9042e0a635195989e37",
+    "semantic_hash": "3f03c282bd24d9042e0a635195989e37"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/onboarding1.png": {
+    "mtime": 1721553236.0,
+    "ast_hash": "aef50553e14143188a0a5c91ae6ace4f",
+    "semantic_hash": "aef50553e14143188a0a5c91ae6ace4f"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/onboarding2.png": {
+    "mtime": 1722139920.0,
+    "ast_hash": "b963cb51062346d2b7b2c1a8160f542a",
+    "semantic_hash": "b963cb51062346d2b7b2c1a8160f542a"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/onboarding3.png": {
+    "mtime": 1722139920.0,
+    "ast_hash": "6f3fec7dbbf4dd452d4358bd0c70e6d7",
+    "semantic_hash": "6f3fec7dbbf4dd452d4358bd0c70e6d7"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/partial-react-logo.png": {
+    "mtime": 499162500.0,
+    "ast_hash": "8f14e478886737f3323a2ac79c833749",
+    "semantic_hash": "8f14e478886737f3323a2ac79c833749"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/react-logo.png": {
+    "mtime": 499162500.0,
+    "ast_hash": "695d5a1c6f29a689130f3aaa573aec6e",
+    "semantic_hash": "695d5a1c6f29a689130f3aaa573aec6e"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/react-logo@2x.png": {
+    "mtime": 499162500.0,
+    "ast_hash": "b507e7f2c91ebc8fe24dee79ccb3b600",
+    "semantic_hash": "b507e7f2c91ebc8fe24dee79ccb3b600"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/react-logo@3x.png": {
+    "mtime": 499162500.0,
+    "ast_hash": "8a4d0e5b845044e56e3b2df627d01cfd",
+    "semantic_hash": "8a4d0e5b845044e56e3b2df627d01cfd"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/signup-car.png": {
+    "mtime": 1722139920.0,
+    "ast_hash": "08e7e3bfe10ed23640132fc373eb724d",
+    "semantic_hash": "08e7e3bfe10ed23640132fc373eb724d"
+  },
+  "/Users/mohitkoley/react-native-learn/projects/uber_clone/assets/images/splash.png": {
+    "mtime": 1723659908.0,
+    "ast_hash": "3b842a86b24b308814a82f95b67a71b0",
+    "semantic_hash": "3b842a86b24b308814a82f95b67a71b0"
+  }
+}
