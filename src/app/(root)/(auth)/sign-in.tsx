@@ -3,7 +3,7 @@ import CustomButton from "@/components/common/customButton";
 import InputField from "@/components/inputField";
 import ScreenLayout from "@/components/layout/screenLayout";
 import OAuth from "@/components/OAuth";
-import { Link } from "expo-router";
+import { router } from "expo-router";
 import { useState } from "react";
 import { Image, Pressable, ScrollView, Text, View } from "react-native";
 
@@ -30,27 +30,18 @@ function signIn() {
                 // style={{ width: "100%", height: 200 }}
               />
               <Text className="absolute bottom-5 left-5 font-JakartaExtraBold text-2xl text-black">
-                Create an Account
+                Login
               </Text>
             </View>
           </View>
           <View className="p-5 gap-5">
             <InputField
-              label={"name"}
-              icon={icons.person}
-              value={form.name}
-              hint={"Enter your name"}
-              onChange={(value) => {
-                setForm({ ...form, name: value.toString() });
-              }}
-            ></InputField>
-            <InputField
               label={"email"}
               icon={icons.email}
               value={form.email}
               hint={"Enter your email"}
-              onChange={(value) => {
-                setForm({ ...form, email: value.toString() });
+              onChangeText={(text) => {
+                setForm({ ...form, email: text });
               }}
             ></InputField>
             <InputField
@@ -59,22 +50,24 @@ function signIn() {
               value={form.password}
               secureTextEntry={true}
               hint={"Enter your password"}
-              onChange={(value) => {
-                setForm({ ...form, password: value.toString() });
+              onChangeText={(text) => {
+                setForm({ ...form, password: text });
               }}
             ></InputField>
-            <CustomButton title="Create Account" onPress={onSignIn} />
+            <CustomButton title="Login" onPress={onSignIn} />
 
             <OAuth />
 
-            <Link href="/sign-in" asChild>
-              <Pressable className="w-full items-center">
+            
+              <Pressable className="w-full items-center" onPress= {() => {
+                router.back
+              }}>
                 <Text className="text-lg font-JakartaMedium text-black">
-                  Already have an account?{" "}
-                  <Text className="text-primary-500">Sign In</Text>
+                  Don't have an account?{" "}
+                  <Text className="text-primary-500">Sign Up</Text>
                 </Text>
               </Pressable>
-            </Link>
+           
           </View>
         </ScrollView>
       }

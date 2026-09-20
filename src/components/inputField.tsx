@@ -1,4 +1,4 @@
-import { InputFieldProps } from "@/types/types";
+import type { InputFieldProps } from "@/types/types";
 import { Image, Text, TextInput, View } from "react-native";
 
 const InputField = ({
@@ -11,7 +11,7 @@ const InputField = ({
   containerStyle,
   iconStyle,
   className,
-  onChange,
+  onChangeText,
   hint,
   ...textInputProps
 }: InputFieldProps) => {
@@ -32,10 +32,11 @@ const InputField = ({
         ) : null}
         <TextInput
           {...textInputProps}
-          onChange={onChange}
+          value={value}
+          onChangeText={onChangeText}
           placeholder={hint}
           secureTextEntry={secureTextEntry}
-          className={`h-14 flex-1 text-base ${inputStyle ?? ""} ${className}`}
+          className={`h-14 flex-1 text-base ${inputStyle ?? ""}`}
         />
       </View>
     </View>

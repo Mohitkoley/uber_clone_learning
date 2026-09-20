@@ -39,8 +39,8 @@ function signup() {
               icon={icons.person}
               value={form.name}
               hint={"Enter your name"}
-              onChange={(value) => {
-                setForm({ ...form, name: value.toString() });
+              onChangeText={(text) => {
+                setForm({ ...form, name: text });
               }}
             ></InputField>
             <InputField
@@ -48,8 +48,8 @@ function signup() {
               icon={icons.email}
               value={form.email}
               hint={"Enter your email"}
-              onChange={(value) => {
-                setForm({ ...form, email: value.toString() });
+              onChangeText={(text) => {
+                setForm({ ...form, email: text });
               }}
             ></InputField>
             <InputField
@@ -58,8 +58,8 @@ function signup() {
               value={form.password}
               secureTextEntry={true}
               hint={"Enter your password"}
-              onChange={(value) => {
-                setForm({ ...form, password: value.toString() });
+              onChangeText={(text) => {
+                setForm({ ...form, password: text });
               }}
             ></InputField>
             <CustomButton title="Create Account" onPress={onSignUp} />
