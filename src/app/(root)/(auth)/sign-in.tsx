@@ -30,7 +30,7 @@ function signIn() {
                 // style={{ width: "100%", height: 200 }}
               />
               <Text className="absolute bottom-5 left-5 font-JakartaExtraBold text-2xl text-black">
-                Login
+                Welcome
               </Text>
             </View>
           </View>
@@ -57,13 +57,9 @@ function signIn() {
             <CustomButton title="Login" onPress={onSignIn} />
 
             <OAuth />
-
-            
-              <Pressable className="w-full items-center" onPress= {() => {
-                router.back
-              }}>
+              <Pressable className="w-full items-center"   onPress={() => router.back()} >
                 <Text className="text-lg font-JakartaMedium text-black">
-                  Don't have an account?{" "}
+                  Don't have an account?{"   "}
                   <Text className="text-primary-500">Sign Up</Text>
                 </Text>
               </Pressable>

@@ -69,7 +69,7 @@ function signup() {
             <Link href="/sign-in" asChild>
               <Pressable className="w-full items-center">
                 <Text className="text-lg font-JakartaMedium text-black">
-                  Already have an account?{" "}
+                  Already have an account?{"  "}
                   <Text className="text-primary-500">Sign In</Text>
                 </Text>
               </Pressable>
